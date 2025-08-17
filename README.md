@@ -48,8 +48,8 @@ This project implements an intelligent stair-climbing robot that can:
 
 2. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/drawing-robot.git
-   cd drawing-robot
+   git clone https://github.com/nbmoreland/stair-climbing-robot.git
+   cd stair-climbing-robot
    ```
 
 3. **Connect your SPIKE Prime hub**
@@ -195,7 +195,7 @@ def move(self):
 ## 🧩 Project Structure
 
 ```
-drawing-robot/
+stair-climbing-robot/
 ├── main.py          # Entry point and main control loop
 ├── robot.py         # Robot class with hardware interfaces
 ├── README.md        # This file
